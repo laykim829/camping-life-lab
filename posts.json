@@ -1,65 +1,72 @@
 [
-  {
-    "title": "캠핑 버너 화력 BTU 기준: 1구 vs 2구 차이와 용도별 선택법",
-    "category": "캠핑 버너",
-    "summary": "캠핑 버너의 화력을 나타내는 BTU 수치, 무조건 높을수록 좋을까요? 1구 버너와 2구 버너의 차이와 상황별 올바른 선택 기준을 정리했습니다.",
-    "date": "2026-07-15",
-    "url": "posts/camping-burner-btu-guide.html"
-  },
-  {
-    "title": "캠핑 아이스박스(쿨러) 용량·보냉력 선택 가이드",
-    "category": "캠핑 장비",
-    "summary": "캠핑 아이스박스(쿨러) 용량, 보냉력, 소재별 특징을 비교해 캠핑 스타일에 맞는 선택 기준을 정리했습니다.",
-    "date": "2026-07-15",
-    "url": "posts/camping-cooler-guide.html"
-  },
-  {
-    "title": "텐트 설치 순서와 꿀팁: 초보 캠퍼를 위한 가이드",
-    "category": "캠핑 노하우",
-    "summary": "텐트 설치 순서와 실수 없이 치는 꿀팁, 처음 캠핑을 떠나는 분들을 위해 정리했습니다.",
-    "date": "2026-07-10",
-    "url": "posts/tent-setup-guide-beginners.html"
-  },
-  {
-    "title": "캠핑 불멍 제대로 즐기는 법: 화로대 사용법과 안전 수칙",
-    "category": "캠핑 노하우",
-    "summary": "화로대 설치와 불멍을 안전하게 즐기는 법, 장작 선택과 불 끄는 순서.",
-    "date": "2026-07-10",
-    "url": "posts/campfire-safety-guide.html"
-  },
-  {
-    "title": "캠핑 요리 초보 메뉴 추천: 준비물 최소화 레시피",
-    "category": "캠핑 노하우",
-    "summary": "설거지와 준비물을 최소화하면서도 맛있게 즐길 수 있는 캠핑 초보 요리 메뉴.",
-    "date": "2026-07-10",
-    "url": "posts/easy-camping-recipes-beginners.html"
-  },
-  {
-    "title": "캠핑 스토브 연료 고르는 법: 부탄가스 vs 이소부탄 카트리지 차이",
-    "category": "캠핑 스토브",
-    "summary": "캠핑 스토브 연료, 아무거나 사면 저온에서 화력이 뚝 떨어질 수 있습니다. 부탄가스와 이소부탄 카트리지의 차이와 계절별 선택 기준을 정리했습니다.",
-    "date": "2026-07-09",
-    "url": "posts/camping-stove-fuel-guide.html"
-  },
-  {
-    "title": "캠핑 텐트 사이즈 고르는 법: 2인용 vs 4인용 차이",
-    "category": "캠핑 텐트",
-    "summary": "캠핑 텐트 2인용과 4인용, 표기 인원수만 믿고 골랐다가 좁다고 느끼는 분들을 위해 텐트 사이즈별 실사용 기준과 선택 팁을 정리했습니다.",
-    "date": "2026-07-08",
-    "url": "posts/camping-tent-size-guide.html"
-  },
-  {
-    "title": "캠핑 침낭 온도 표시 보는 법: 컴포트 vs 리미트 차이",
-    "category": "캠핑 침낭",
-    "summary": "캠핑 침낭에 적힌 컴포트 온도와 리미트 온도, 숫자만 보고 골랐다가 밤에 추위에 떠는 분들을 위해 침낭 온도 표시 제대로 보는 법을 정리했습니다.",
-    "date": "2026-07-08",
-    "url": "posts/camping-sleeping-bag-temperature-guide.html"
-  },
-  {
-    "title": "캠핑 랜턴 밝기 루멘 기준: 사이트용 vs 텐트용 선택법",
-    "category": "캠핑 랜턴",
-    "summary": "캠핑 랜턴의 루멘(lumen) 수치, 무작정 밝은 제품만 고르면 오히려 불편할 수 있습니다. 사이트용과 텐트용에 맞는 밝기 선택 기준을 정리했습니다.",
-    "date": "2026-07-08",
-    "url": "posts/camping-lantern-lumens-guide.html"
-  }
+    {
+          "title": "캠핑 의자 하중 무게 기준 고르는 법: 로우체어 vs 릴렉스체어 차이",
+          "category": "캠핑 의자",
+          "summary": "캠핑 의자를 고를 때 놓치기 쉬운 하중(내구) 무게 기준, 숫자만 보고 골랐다가 후회하지 않도록 로우체어와 릴렉스체어의 차이와 선택 기준을 정리했습니다.",
+          "date": "2026-07-20",
+          "url": "posts/camping-chair-weight-limit-guide.html"
+    },
+    {
+          "title": "캠핑 버너 화력 BTU 기준: 1구 vs 2구 차이와 용도별 선택법",
+          "category": "캠핑 버너",
+          "summary": "캠핑 버너의 화력을 나타내는 BTU 수치, 무조건 높을수록 좋을까요? 1구 버너와 2구 버너의 차이와 상황별 올바른 선택 기준을 정리했습니다.",
+          "date": "2026-07-15",
+          "url": "posts/camping-burner-btu-guide.html"
+    },
+    {
+          "title": "캠핑 아이스박스(쿨러) 용량·보냉력 선택 가이드",
+          "category": "캠핑 장비",
+          "summary": "캠핑 아이스박스(쿨러) 용량, 보냉력, 소재별 특징을 비교해 캠핑 스타일에 맞는 선택 기준을 정리했습니다.",
+          "date": "2026-07-15",
+          "url": "posts/camping-cooler-guide.html"
+    },
+    {
+          "title": "텐트 설치 순서와 꿀팁: 초보 캠퍼를 위한 가이드",
+          "category": "캠핑 노하우",
+          "summary": "텐트 설치 순서와 실수 없이 치는 꿀팁, 처음 캠핑을 떠나는 분들을 위해 정리했습니다.",
+          "date": "2026-07-10",
+          "url": "posts/tent-setup-guide-beginners.html"
+    },
+    {
+          "title": "캠핑 불멍 제대로 즐기는 법: 화로대 사용법과 안전 수칙",
+          "category": "캠핑 노하우",
+          "summary": "화로대 설치와 불멍을 안전하게 즐기는 법, 장작 선택과 불 끄는 순서.",
+          "date": "2026-07-10",
+          "url": "posts/campfire-safety-guide.html"
+    },
+    {
+          "title": "캠핑 요리 초보 메뉴 추천: 준비물 최소화 레시피",
+          "category": "캠핑 노하우",
+          "summary": "설거지와 준비물을 최소화하면서도 맛있게 즐길 수 있는 캠핑 초보 요리 메뉴.",
+          "date": "2026-07-10",
+          "url": "posts/easy-camping-recipes-beginners.html"
+    },
+    {
+          "title": "캠핑 스토브 연료 고르는 법: 부탄가스 vs 이소부탄 카트리지 차이",
+          "category": "캠핑 스토브",
+          "summary": "캠핑 스토브 연료, 아무거나 사면 저온에서 화력이 뚝 떨어질 수 있습니다. 부탄가스와 이소부탄 카트리지의 차이와 계절별 선택 기준을 정리했습니다.",
+          "date": "2026-07-09",
+          "url": "posts/camping-stove-fuel-guide.html"
+    },
+    {
+          "title": "캠핑 텐트 사이즈 고르는 법: 2인용 vs 4인용 차이",
+          "category": "캠핑 텐트",
+          "summary": "캠핑 텐트 2인용과 4인용, 표기 인원수만 믿고 골랐다가 좁다고 느끼는 분들을 위해 텐트 사이즈별 실사용 기준과 선택 팁을 정리했습니다.",
+          "date": "2026-07-08",
+          "url": "posts/camping-tent-size-guide.html"
+    },
+    {
+          "title": "캠핑 침낭 온도 표시 보는 법: 컴포트 vs 리미트 차이",
+          "category": "캠핑 침낭",
+          "summary": "캠핑 침낭에 적힌 컴포트 온도와 리미트 온도, 숫자만 보고 골랐다가 밤에 추위에 떠는 분들을 위해 침낭 온도 표시 제대로 보는 법을 정리했습니다.",
+          "date": "2026-07-08",
+          "url": "posts/camping-sleeping-bag-temperature-guide.html"
+    },
+    {
+          "title": "캠핑 랜턴 밝기 루멘 기준: 사이트용 vs 텐트용 선택법",
+          "category": "캠핑 랜턴",
+          "summary": "캠핑 랜턴의 루멘(lumen) 수치, 무작정 밝은 제품만 고르면 오히려 불편할 수 있습니다. 사이트용과 텐트용에 맞는 밝기 선택 기준을 정리했습니다.",
+          "date": "2026-07-08",
+          "url": "posts/camping-lantern-lumens-guide.html"
+    }
 ]
